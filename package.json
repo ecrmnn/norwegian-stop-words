@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "generate": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecrmnn/norwegian-stop-words"
+  },
+  "author": {
+    "name": "Daniel Eckermann",
+    "email": "danieleckermann@gmail.com",
+    "url": "http://danieleckermann.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecrmnn/norwegian-stop-words/issues"
+  },
+  "homepage": "https://github.com/ecrmnn/norwegian-stop-words",
+  "devDependencies": {},
+  "dependencies": {
+    "collect.js": "^2.0.1"
+  }
+}
